@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nglib.VENDORS.OVH", "Nglib.VENDORS.OVH\Nglib.VENDORS.OVH.csproj", "{7224EA7E-59DB-42FA-A01B-E6BD4C607769}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nglib.VENDORS.OVH.Tests", "Nglib.VENDORS.OVH.Tests\Nglib.VENDORS.OVH.Tests.csproj", "{AA8014D8-60A6-4CEF-A566-F55407488C47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7224EA7E-59DB-42FA-A01B-E6BD4C607769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7224EA7E-59DB-42FA-A01B-E6BD4C607769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7224EA7E-59DB-42FA-A01B-E6BD4C607769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7224EA7E-59DB-42FA-A01B-E6BD4C607769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA8014D8-60A6-4CEF-A566-F55407488C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8014D8-60A6-4CEF-A566-F55407488C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8014D8-60A6-4CEF-A566-F55407488C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8014D8-60A6-4CEF-A566-F55407488C47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2D356C9-10B6-408C-8366-DAC2C3CEF4FB}
+	EndGlobalSection
+EndGlobal
